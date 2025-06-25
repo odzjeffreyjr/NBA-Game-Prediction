@@ -1,8 +1,9 @@
 ---
-
-NBA Game Outcome Prediction
-By: Vidushi Gupta, Jeffrey Oduman, Darian Parks
-
+title: "NBA Game Outcome Prediction"
+authors:
+  - Vidushi Gupta
+  - Jeffrey Oduman
+  - Darian Parks
 ---
 
 Overview
